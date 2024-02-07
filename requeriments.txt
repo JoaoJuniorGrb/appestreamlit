@@ -1,4 +1,5 @@
 altair==5.2.0
+yfinance==0.1.63
 yfinance==0.2.36
 appdirs==1.4.4
 attrs==23.2.0
