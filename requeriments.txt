@@ -1,2 +1,2 @@
-yfinance==0.2.30
+yfinance
 streamlit==1.30.0
