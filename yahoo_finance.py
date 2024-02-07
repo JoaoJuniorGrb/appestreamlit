@@ -1,5 +1,5 @@
-import yfinance as yf
 import streamlit as st
+import yfinance as yf
 
 st.title("Preço do ativo")
 st.header("Informações a respeito do fechamento de ações")
