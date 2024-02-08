@@ -4,3 +4,7 @@ yfinance
 pandas
 plotly
 matplotlib
+numpy
+panda
+requests
+lxml
