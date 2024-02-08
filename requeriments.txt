@@ -1,5 +1,2 @@
-streamlit>=0.78.0
-yfinance
-pandas
-plotly
-matplotlib
+streamlit==1.30.0
+yfinance==0.2.33
